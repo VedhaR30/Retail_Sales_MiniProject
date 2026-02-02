@@ -1,9 +1,8 @@
-# 📊 Data Analysis Mini Project (Jupyter Notebook)
+# 📊 Retail Sales - Mini Project
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📌 Introduction
-Welcome to the **Data Analysis Mini Project** repository!  
 This project is developed using **Python and Jupyter Notebook** and focuses on exploring, analyzing, and visualizing data to extract meaningful insights.  
 
 The notebook demonstrates practical use of **data cleaning, exploratory data analysis (EDA), and visualization techniques**, making it suitable for beginners and intermediate learners in data analytics.
@@ -76,6 +75,5 @@ It serves as a strong foundation for aspiring **Data Analysts** and **Data Scien
 ## 📚 References
 - Python Documentation  
 - Pandas & NumPy Official Docs  
-- Matplotlib & Seaborn Tutorials  
-!
+- Matplotlib & Seaborn Tutorials
 
